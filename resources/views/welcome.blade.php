@@ -13,11 +13,13 @@
         <!-- Styles -->
         {{-- <link rel="stylesheet" href=".../public/css/app.css"> --}}
         <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url('../bower_components/meta-ui/dist/css/meta-ui.css') }}">
+
 
         <style>
             html, body {
                 /*background-color: #fff;*/
-                color: #636b6f;
+                color: white;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -53,7 +55,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: white;
                 padding: 0 25px;
                 font-size: 12px;
                 font-weight: 600;
@@ -83,6 +85,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
+                    <i class="fa fa-bath" aria-hidden="true"></i>
                 </div>
 
                 <div class="links">
