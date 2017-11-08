@@ -98,5 +98,30 @@
                 </div>
             </div>
         </div>
+
+        <example>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="panel panel-default">
+                            <div class="panel-heading type--center">Example Component</div>
+
+                            <div class="panel-body">
+                                I'm an example component!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </example>
+
+        <script>
+            export default {
+                mounted() {
+                    console.log('Component mounted.')
+                }
+            }
+        </script>
+
     </body>
 </html>

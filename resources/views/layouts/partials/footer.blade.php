@@ -6,7 +6,7 @@
           <div class="col-md-6">
             <div class="metalab-branding">
               <svg width="150" height="15" viewBox="0 0 300 35" preserveAspectRatio="xMinYMin meet">
-                <image href="../img/logo/metalab-horizontal.svg"></image>
+                <image href="../bower_components/meta-ui/img/logo/metalab-horizontal.svg"></image>
               </svg>
             </div>
           </div>
