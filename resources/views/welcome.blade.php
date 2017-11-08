@@ -16,6 +16,7 @@
         <link rel="stylesheet" type="text/css" href="{{ url('../bower_components/meta-ui/dist/css/meta-ui.css') }}">
 
 
+
         <style>
             html, body {
                 /*background-color: #fff;*/
