@@ -12,7 +12,7 @@
 </head>
 
 <body>
-	@include('layouts.partials.nav')
+	{{-- @include('layouts.partials.footer') --}}
 		<div class="main--fullpage">
 			@yield('structure')
 		</div>
