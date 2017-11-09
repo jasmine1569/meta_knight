@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('template', function () {
+		return view('layouts.templates.template');
+});
+
 Route::get('coming-soon', function () {
     return view('pages.temp');
 });
