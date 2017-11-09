@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-	META+LAB
+    META+LAB
 @endsection
 
 @section('structure')
@@ -13,7 +13,7 @@
         <div class="banner__flex--cover">
            <i class="fa fa-5x fa-ban type--center type--red" aria-hidden="true"></i>
            <br>
-           <h5 class="type--center">Sorry, we're doing some work on the site</h5>
+           <h1 class="type--center h5">Sorry, We're Doing Some Work On The Site</h1>
            <p class="type--center margin__less-top">Thank you for being patient.</p>
         </div>
       </div>
