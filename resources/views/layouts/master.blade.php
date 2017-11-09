@@ -13,10 +13,10 @@
 	{{-- META+LAB UI-KIT Assets--}}
 	<link rel="stylesheet" type="text/css" href="{{ url('css/meta-ui.css') }}">
 	<link rel="stylesheet" type="text/js" href="{{ url('js/meta-ui.js') }}">
-  	<link rel="stylesheet" href="{{ url('https://cdn.metalab.csun.edu/fonts/din/MyFontsWebfontsKit.css') }}">
-
-
-	<title>@yield('title', 'Project Title')</title>	
+  <link rel="stylesheet" href="{{ url('https://cdn.metalab.csun.edu/fonts/din/MyFontsWebfontsKit.css') }}">
+	<link rel="icon" href="http://www.csun.edu/sites/default/themes/csun/favicon.ico" type="image/x-icon">
+	
+	<title>@yield('title') | META+LAB</title>	
 </head>
 
 <body>

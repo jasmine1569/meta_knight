@@ -1,7 +1,5 @@
 @extends('layouts.master')
-@section('title')
-    META+LAB
-@endsection
+@section('title', 'Coming Soon')
 @section('structure')
 <div class="section">
   <div class="container">
