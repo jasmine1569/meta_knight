@@ -11,15 +11,12 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
-        {{-- <link rel="stylesheet" href=".../public/css/app.css"> --}}
         <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">
-        <link rel="stylesheet" type="text/css" href="{{ url('../bower_components/meta-ui/dist/css/meta-ui.css') }}">
-
-
+        <link rel="stylesheet" type="text/css" href="{{ url('css/meta-ui.css') }}">
 
         <style>
             html, body {
-                /*background-color: #fff;*/
+                background-color: #F15A46;
                 color: white;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -122,6 +119,5 @@
                 }
             }
         </script>
-
     </body>
 </html>

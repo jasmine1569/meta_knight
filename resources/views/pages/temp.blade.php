@@ -11,9 +11,10 @@
     <div class="row">
       <div class="col-md-12">
         <div class="banner__flex--cover">
-           <h1 class="banner__flex--title">META<span class="type--red type--plus">+</span>LAB UI KIT</h1>
-           <p class="type--center">A Front-End framework for developing fast and powerful web interfaces.</p>
-           <a href="introduction.html" class="button__left type--link type--red type--center" id="type--plus">Get Started<i class="fa fa-long-arrow-right margin-left" aria-hidden="true"></i></a>
+           <i class="fa fa-5x fa-ban type--center type--red" aria-hidden="true"></i>
+           <br>
+           <h5 class="type--center">Sorry, we're doing some work on the site</h5>
+           <p class="type--center margin__less-top">Thank you for being patient.</p>
         </div>
       </div>
     </div>

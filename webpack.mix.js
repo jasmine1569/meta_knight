@@ -1,15 +1,12 @@
 let mix = require('laravel-mix');
 
-/*
- |--------------------------------------------------------------------------
- | Mix Asset Management
- |--------------------------------------------------------------------------
- |
- | Mix provides a clean, fluent API for defining some Webpack build steps
- | for your Laravel application. By default, we are compiling the Sass
- | file for the application as well as bundling up all the JS files.
- |
- */
+/* META+LAB UI-KIT Mix Assets */
+mix.js('bower_components/meta-ui/src/js/meta-ui.js', 'public/js/meta-ui.js')
+mix.sass('bower_components/meta-ui/src/sass/meta-ui.scss', 'public/css/meta-ui.css')
 
+/*META__KNIGHT Mix Assets */
 mix.js('resources/assets/js/app.js', 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css');
+
+
+	
