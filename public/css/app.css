@@ -1,5 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@charset "UTF-8";
 
+.nav-container {
+  margin: 0 auto;
+  width: 100%;
+  padding-left: 2.9375rem;
+  padding-right: 2.9375rem;
+}
+
+.parallax {
+  /* The image used */
+  /* Set a specific height */
+  min-height: 200px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
