@@ -7,15 +7,20 @@
   padding-right: 2.9375rem;
 }
 
+.container__full--left {
+  padding-left: 0;
+}
+
 .parallax {
   /* The image used */
+  background-image: url("/meta_knight/public/img/D.svg");
   /* Set a specific height */
   min-height: 200px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 80%;
 }
 
 /*!
