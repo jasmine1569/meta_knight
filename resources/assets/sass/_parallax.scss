@@ -15,7 +15,7 @@
     z-index: -1;
     backface-visibility: hidden;
     top: 50%;
-    // left: 50%;
+    // left: 60%;
     trasnform: translate (-50%, -50%);
     margin: 0;
     pointer-events: none;
@@ -26,7 +26,7 @@
 
 
 .parallax__img{
-	width: 30%;
+	width: 35%;
 	height: auto;
 	opacity: 0.25;
 }

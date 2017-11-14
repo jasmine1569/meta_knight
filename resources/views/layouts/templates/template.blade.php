@@ -64,12 +64,12 @@
     </div>
 
     <div class="col-md-6">
-      <h2 class="parallax">
+      <div class="parallax">
         <img src="../public/img/D.svg" class="parallax__img" alt="">
-      </h2>
+      </div>
 
       <div class="intro">
-        <h4>Hello World</h4>
+        <h4>HELLO WORLD</h4>
         <div class="title__bar"></div>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
@@ -77,6 +77,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
+
       </div>
     </div>
 
