@@ -30,7 +30,7 @@
   </div>
 </div>
 															{{-- END BUTTONS --}}
-<div class="section">
+{{-- <div class="section">
 	<div class="container">
 		
 		<div class="col-md-6 container__full--left">
@@ -50,7 +50,40 @@
 			</div>
 
 	</div>
+</div> --}}
+
+<div class="section">
+  <div class="container">
+
+    <div class="col-md-6">
+      <div class="blue-bar">
+        <div class="img">
+          <img class="img__side-image" src="https://pbs.twimg.com/media/DNOFvxkUMAAV_5x.jpg" alt="Side Image">
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <h2 class="parallax">
+        <img src="../public/img/D.svg" class="parallax__img" alt="">
+      </h2>
+
+      <div class="intro">
+        <h4>Hello World</h4>
+        <div class="title__bar"></div>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
+      </div>
+    </div>
+
+  </div>
 </div>
+
+
 
 
 
