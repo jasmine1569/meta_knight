@@ -52,10 +52,11 @@
 	</div>
 </div> --}}
 
-<div class="section">
-  <div class="container">
+<div class="section__meta">
+  
 
-    <div class="col-md-6">
+  <div class="container__meta">
+    <div class="meta-md-6">
       <div class="blue-bar">
         <div class="img">
           <img class="img__side-image" src="https://pbs.twimg.com/media/DNOFvxkUMAAV_5x.jpg" alt="Side Image">
@@ -80,8 +81,11 @@
 
       </div>
     </div>
-
   </div>
+
+
+
+
 </div>
 
 
