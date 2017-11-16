@@ -29,12 +29,40 @@ div {
 }
 
 /* Standard 12 column grid */
+.section__banner{
+  padding: 80px 0px;
+}
+
 .section__button{
-  padding: 50px 0px;
+  padding: 0px 0px;
 }
 
 .section__knight{
   padding: 230px 0px;
+
+  // //xs
+  // @media (min-width: 376px) {
+  //   padding: 50px 0px;
+  // }
+
+  // //small
+  // @media (min-width: 544px) {
+  //   padding: 50px 0px;
+  // }
+
+  // @media (min-width: 741px) {
+  //   padding: 50px 0px;
+  // }
+
+  // //large
+  // @media (min-width: 992px) {
+  //   padding: 50px 0px;
+  // }
+
+  // //xl
+  // @media (min-width: 1200px) {
+  //   padding: 50px 0px;
+  // }
 }
 
 .container__knight {

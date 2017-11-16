@@ -1,6 +1,6 @@
 .parallax { 
     position: absolute;
-    width: 71%;
+    width: 70%;
     opacity: 1;
     z-index: -1;
     backface-visibility: hidden;
@@ -10,6 +10,30 @@
     margin: 0;
     pointer-events: none;
     transition: opacity .4s cubic-bezier(.42, .01, .23, 1);
+
+    // //xs
+    // @media (min-width: 376px) {
+    //     bottom: 65%;
+    // }
+
+    // //small
+    // @media (min-width: 544px) {
+    //     bottom: 65%;
+    // }
+
+    // @media (min-width: 741px) {
+    //     bottom: 65%;
+    // }
+
+    // //large
+    // @media (min-width: 992px) {
+    //     bottom: 65%;
+    // }
+
+    // //xl
+    // @media (min-width: 1200px) {
+    //     bottom: 65%;
+    // }
 }
 
 
