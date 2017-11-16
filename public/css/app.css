@@ -11,17 +11,32 @@
   padding-left: 0;
 }
 
+.section-test {
+  padding: 0;
+  margin: 0;
+}
+
+.container-test {
+  padding: 0;
+  margin: 0;
+}
+
+.padding__less--left {
+  padding-left: 0;
+}
+
 .parallax {
   /* The image used */
   /* Set a specific height */
   /* Create the parallax scrolling effect */
-  position: fixed;
-  width: 80%;
+  position: absolute;
+  width: 60%;
   opacity: 1;
   z-index: -1;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  top: 50%;
+  left: 35%;
+  bottom: 20%;
   trasnform: translate -50%, -50%;
   margin: 0;
   pointer-events: none;
@@ -30,16 +45,9 @@
 }
 
 .parallax__img {
-  width: 35%;
+  width: 80%;
   height: auto;
   opacity: 0.25;
-}
-
-.intro {
-  opacity: 1;
-  -webkit-transform: none;
-          transform: none;
-  position: relative;
 }
 
 /*!
