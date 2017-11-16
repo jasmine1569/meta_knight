@@ -26,29 +26,6 @@
   </div>
 </div>
 															{{-- END BUTTONS --}}
-<<<<<<< HEAD
-
-<div class="section-test clearfix">
-  <div class="container-test clearfix">
- {{-- Side Image --}}
-    <div class="padding__less--left col-md-6">
-      <div class="blue-bar">
-        <div class="img">
-          <img class="img__side-image" src="https://pbs.twimg.com/media/DNOFvxkUMAAV_5x.jpg" alt="Side Image">
-        </div>
-      </div>
-    </div>
-{{-- Parallax --}}
-    <div class="col-md-6">
-      <div class="parallax">
-        <img src="../public/img/D.svg" class="parallax__img" alt="">
-      </div>
-{{-- Text Over Parallax --}}
-      <div>
-        <h4>HELLO WORLD</h4>
-        <div class="title__bar"></div>
-=======
-
 <div class="section__knight">
   <div class="container__knight">
 
@@ -93,7 +70,6 @@
         <div class="parallax">
           <img src="../public/img/F.svg" class="parallax__img" alt="">
         </div>
->>>>>>> d6f24d4c7efa64cc146b19ac977aceb714292eef
 
         <div class="intro">
           <h4>HELLO WORLD</h4>
