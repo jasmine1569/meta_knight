@@ -74,8 +74,8 @@
 
 // Side Image //
 .img__side-image {
-  height: 336px;
-  width: 175%;
+  height: 448px;
+  width: 155%;
   border: none;
 
     @media (min-width: 320px) and (max-width: 741px ) {
@@ -86,9 +86,9 @@
 
 // Black Panel //
 .blue-bar {
-  height: 432px;
-  width: 288px;
-  padding-bottom: 46px;
-  padding-top: 46px;
-  background-color: black;
+  height: 600px;
+  width: 415px;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  background-color: $black;
 }

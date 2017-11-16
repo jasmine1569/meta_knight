@@ -60,29 +60,19 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 9);
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
 /******/ })
 /************************************************************************/
 /******/ ([
-/* 0 */,
-/* 1 */,
-/* 2 */,
-/* 3 */,
-/* 4 */,
-/* 5 */,
-/* 6 */,
-/* 7 */,
-/* 8 */,
-/* 9 */
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(10);
-__webpack_require__(11);
-module.exports = __webpack_require__(12);
+__webpack_require__(1);
+module.exports = __webpack_require__(2);
 
 
 /***/ }),
-/* 10 */
+/* 1 */
 /***/ (function(module, exports) {
 
 
@@ -92,13 +82,15 @@ console.log('META+LAB UI Kit');
 // Maps names of included libraries to their filepaths.
 var includedDependencies = {};
 
-function includeOnce(file, libraryName = '') {
-    if(libraryName === '') {
+function includeOnce(file) {
+    var libraryName = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : '';
+
+    if (libraryName === '') {
         libraryName = file;
     }
     //If library is not included yet, then include it
-    if(!(libraryName in includedDependencies)){
-        let script = document.createElement('script');
+    if (!(libraryName in includedDependencies)) {
+        var script = document.createElement('script');
         script.src = file;
         script.type = 'text/javascript';
         // script.defer = true;
@@ -113,15 +105,8 @@ includeOnce('../src/js/form.js');
 includeOnce('../src/js/navbar.js');
 includeOnce('../src/js/multiCarousel.js');
 
-
 /***/ }),
-/* 11 */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 12 */
+/* 2 */
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
