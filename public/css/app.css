@@ -651,7 +651,7 @@ div {
   z-index: -1;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  bottom: 30%;
+  bottom: 20%;
   left: 30%;
   trasnform: translate -50%, -50%;
   margin: 0;
@@ -696,6 +696,18 @@ div {
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.img--grid {
+  height: 192px;
+  width: 100%;
+  border: none;
+}
+
+@media (min-width: 320px) and (max-width: 741px) {
+  .img--grid {
+    width: 100%;
+  }
 }
 
 /*!

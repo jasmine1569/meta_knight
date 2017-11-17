@@ -23,3 +23,14 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+
+.img--grid {
+  height: 192px;
+  width: 100%;
+  border: none;
+
+    @media (min-width: 320px) and (max-width: 741px ) {
+    width: 100%;
+  }
+}
