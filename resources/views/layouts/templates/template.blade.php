@@ -28,7 +28,6 @@
 															{{-- END BUTTONS --}}
 <div class="section__knight">
   <div class="container__knight">
-
     <div class="meta-md-6">
       <div class="container__img--right" data-aos="slide-right">
         <div class="blue-box" >
@@ -38,53 +37,39 @@
         </div>
       </div>
     </div>
-
     <div class="meta-md-6">
       <div class="container__content">
         <div class="parallax" data-aos="fade-down">
-          <img src="../public/img/D.svg" class="parallax__img" alt="">
+          <img src="../public/img/D.svg" class="parallax__img--letters" alt="">
         </div>
+        <h4>HELLO WORLD</h4>
+        <div class="title__bar"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
-        <div class="intro">
-          <h4>HELLO WORLD</h4>
-          <div class="title__bar"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-        </div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
       </div>
     </div>
-
   </div>
 </div>
 
 <div class="section__knight">
   <div class="container__knight">
-
     <div class="meta-md-6">
       <div class="container__content">
         <div class="parallax" data-aos="fade-down">
-          <img src="../public/img/F.svg" class="parallax__img" alt="">
+          <img src="../public/img/F.svg" class="parallax__img--letters" alt="">
         </div>
+        <h4>HELLO WORLD</h4>
+        <div class="title__bar"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
-        <div class="intro">
-          <h4>HELLO WORLD</h4>
-          <div class="title__bar"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-        </div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
       </div>
     </div>
-
     <div class="meta-md-6">
       <div class="container__img--left" data-aos="slide-left">
         <div class="blue-box pull-right">
@@ -101,7 +86,6 @@
 
 <div class="section__knight">
   <div class="container__knight">
-
     <div class="meta-md-6">
       <div class="container__img--right" data-aos="slide-right">
         <div class="blue-box">
@@ -111,27 +95,20 @@
         </div>
       </div>
     </div>
-
     <div class="meta-md-6">
       <div class="container__content">
         <div class="parallax" data-aos="fade-down">
-          <img src="../public/img/B.svg" class="parallax__img" alt="">
+          <img src="../public/img/B.svg" class="parallax__img--letters" alt="">
         </div>
+        <h4>HELLO WORLD</h4>
+        <div class="title__bar"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
-        <div class="intro">
-          <h4>HELLO WORLD</h4>
-          <div class="title__bar"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
-
-        </div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat asperiores ullam dolor iusto, ipsam ad incidunt aliquam placeat necessitatibus! Blanditiis laboriosam dicta sint nobis. Eveniet corrupti amet voluptas porro quos?</p>
       </div>
     </div>
-
   </div>
 </div>
 

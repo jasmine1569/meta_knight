@@ -19,19 +19,16 @@
 	<title>@yield('title') | META+LAB</title>	
 </head>
 <body>
-	{{-- @include('layouts.partials.navbar') --}}
-	{{-- 	<div class="main--fullpage"> --}}
+	@include('layouts.partials.navbar')
 		<div class="main--fullpage">		
 			@yield('structure')
-		
-			@include('layouts.partials.footer')
-		{{-- <div class="main--fullpage"> --}}
 		</div>
+	@include('layouts.partials.footer')
 		<script src="{{ url('js/aos.js') }}"></script>
 		<script>
 		    AOS.init({
 	      		offset: 100,
-	      		duration: 600,
+	      		duration: 700,
 	      		easing: 'ease-in-out-sine',
 	      		delay: 0,
 	      		disable: 'mobile',

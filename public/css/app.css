@@ -57,6 +57,26 @@ div {
   display: inline-grid;
 }
 
+.container__button {
+  margin: 0 auto;
+  width: 100%;
+  padding-left: 4.9375rem;
+  padding-right: 4.9375rem;
+}
+
+.container__img--right {
+  padding-right: 0.9375rem;
+}
+
+.container__img--left {
+  padding-left: 0.9375rem;
+}
+
+.container__content {
+  padding-left: 5rem;
+  padding-right: 6.5rem;
+}
+
 .row__knight {
   margin-left: -0.9375rem;
   margin-right: -0.9375rem;
@@ -640,38 +660,16 @@ div {
   transition: opacity 0.4s cubic-bezier(0.42, 0.01, 0.23, 1);
 }
 
-.parallax__img {
+.parallax__img--letters {
   width: 80%;
   height: auto;
   opacity: 0.25;
 }
 
-.padding__less-left {
-  padding-left: 0;
-}
-
-.padding__less {
-  padding: 0px;
-}
-
-.container__button {
-  margin: 0 auto;
-  width: 100%;
-  padding-left: 4.9375rem;
-  padding-right: 4.9375rem;
-}
-
-.container__img--right {
-  padding-right: 0.9375rem;
-}
-
-.container__img--left {
-  padding-left: 0.9375rem;
-}
-
-.container__content {
-  padding-left: 5rem;
-  padding-right: 6.5rem;
+.parallax__img--numbers {
+  width: 80%;
+  height: auto;
+  opacity: 0.25;
 }
 
 .img__side {
