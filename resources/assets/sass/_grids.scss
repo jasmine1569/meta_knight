@@ -30,7 +30,7 @@ div {
 
 /* Standard 12 column grid */
 .section__banner{
-  padding: 80px 0px;
+  padding: 70px 0px;
 }
 
 .section__button{
@@ -38,7 +38,8 @@ div {
 }
 
 .section__knight{
-  padding: 230px 0px;
+  padding: 200px 0px;
+  overflow: hidden; 
 
   // //xs
   // @media (min-width: 376px) {

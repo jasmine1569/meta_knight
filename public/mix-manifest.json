@@ -1,6 +1,8 @@
 {
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
+    "/js/aos.js": "/js/aos.js",
+    "/css/aos.css": "/css/aos.css",
     "/js/meta-ui.js": "/js/meta-ui.js",
     "/css/meta-ui.css": "/css/meta-ui.css"
 }

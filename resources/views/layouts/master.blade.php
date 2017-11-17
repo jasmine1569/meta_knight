@@ -5,6 +5,9 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" content="">
+
+	<link rel="stylesheet" href="{{ url('css/aos.css') }}" />
+
 	{{-- META__KNIGHT Assets--}}
 	<link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ url('js/app.js') }}">
@@ -24,5 +27,16 @@
 			@include('layouts.partials.footer')
 		{{-- <div class="main--fullpage"> --}}
 		</div>
+		<script src="{{ url('js/aos.js') }}"></script>
+		<script>
+		    AOS.init({
+	      		offset: 100,
+	      		duration: 600,
+	      		easing: 'ease-in-out-sine',
+	      		delay: 0,
+	      		disable: 'mobile',
+	    	});
+		</script>
+
 </body>
 </html>
