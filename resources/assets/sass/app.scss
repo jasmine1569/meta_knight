@@ -1,16 +1,13 @@
-// Fonts
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
 
-// Variables
+// CORE
 @import "variables";
 @import "grids";
 @import "base";
+
+//COMPONENTS
 @import "parallax";
 @import "helpers";
 @import "images";
 
 // DEPENDENCIES
 @import "node_modules/font-awesome/scss/font-awesome";
-
-// Bootstrap
-// @import "~bootstrap-sass/assets/stylesheets/bootstrap";

@@ -1,15 +1,3 @@
-// .nav-container {
-// 	margin: 0 auto;
-//   width: 100%;
-//   padding-left: 2.9375rem;
-//   padding-right: 2.9375rem;
-// }
-
-// .container__full--left {
-// 	padding-left: 0;
-// }
-
-
 /* Resets box sizing across all elements */
 html {
   box-sizing: border-box;
@@ -20,17 +8,19 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
 body{
   margin:0px;
   padding:0px;
 }
+
 div {
   display: block;
 }
 
 /* Standard 12 column grid */
 .section__banner{
-  padding: 70px 0px;
+  padding: 60px 0px;
 }
 
 .section__button{
@@ -102,8 +92,6 @@ div {
   float: left;
   width: 100%;
   position: relative;
-  // padding-right: 0.9375rem;
-  // padding-left: 0.9375rem;
 }
 
 //xs
@@ -141,11 +129,7 @@ div {
 }
 
 /* Extra Small */
-
-
 @media (min-width: 376px) {
-
-  /*body { background-color: deepskyblue; }*/
 
   .lite-xs-1 {
     width: 8.33%;
@@ -243,11 +227,9 @@ div {
     margin-left: 100%;
   }
 }
+
 /* Small */
-
 @media (min-width: 544px) {
-
-  /*body { background-color: yellow; }*/
 
   .lite-sm-1 {
     width: 8.33%;
@@ -348,10 +330,7 @@ div {
 }
 
 /* Medium */
-
 @media (min-width: 741px) {
-
-  /*body { background-color: green; }*/
 
   .lite-md-1 {
     width: 8.33%;
@@ -449,15 +428,9 @@ div {
     margin-left: 100%;
   }
 }
+
 /* Large */
-
 @media (min-width: 992px) {
-
-  /*body { background-color: deepskyblue; }*/
-
-  //.container {
-  //  width: 992px;
-  //}
 
   .lite-lg-1 {
     width: 8.33%;
@@ -557,14 +530,7 @@ div {
 }
 
 /* Extra Large */
-
 @media (min-width: 1200px) {
-
-  /*body { background-color: cyan; }*/
-
-  //.container {
-  //  width: 1200px;
-  //}
 
   .lite-xl-1 {
     width: 8.33%;
@@ -662,63 +628,3 @@ div {
     margin-left: 100%;
   }
 }
-
-// /* Items used for testing */
-// .red--box {
-//   height: 2em;
-//   width: 100%;
-//   background-color: red;
-//   text-align: center;
-//   color: white;
-//   font-size: 4rem;
-// }
-
-// .blue--box {
-//   height: 2em;
-//   width: 100%;
-//   background-color: #233aff;
-//   text-align: center;
-//   color: white;
-//   font-size: 4rem;
-// }
-
-// /* Documentation */
-
-// .col--outline {
-//    border: 1px solid #000063;
-//    border-radius: 3px;
-//    padding: 6px;
-//    text-align: center;
-//    font-weight: bold;
-//    margin-bottom: 5px;
-// }
-// pre {
-//   display: block;
-//   padding: 25px;
-//   overflow-x: scroll;
-//   background-color: $grey-light;
-//   border: 1px solid $grey;
-//   border-radius: 3px;
-
-// }
-
-// pre code{
-//   padding: 0;
-//   background: transparent;
-//   border-radius: 0;
-// }
-
-// code {
-//   color: $red;
-//   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-//   font-size: 80%;
-//   font-weight: 100;
-//   padding: .2rem .4rem;
-//   border-radius: 3px;
-//   background-color: rgba(208, 13, 45, 0.1);
-// }
-
-// .white--box {
-//   background-color: $white;
-//   height: 3px;
-// }

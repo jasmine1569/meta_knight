@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('template', function () {
-		return view('layouts.templates.template');
+	return view('layouts.templates.template');
 });
 
 Route::get('coming-soon', function () {
